@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, Amr Hassan EMam</h1>
+<h1 align="center">Hi 👋, Amr Hassan Emam</h1>
 <h3 align="center">A passionate Self-taught JavaScript developer from Egypt</h3>
 <h4 align="center">Freelancer</h4>
 
