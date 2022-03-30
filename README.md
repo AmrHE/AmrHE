@@ -14,7 +14,7 @@
 <!-- [<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge">](https://sumitdey.tech) -->
 
 
-- 🔭 I’m currently working on [a Personal Project]
+- 🔭 I’m currently working on [a Personal Project](FUllstack Portfolio)
 
 - 🌱 I’m currently learning **Advanced TypeScript**
 <!-- TODO -->
