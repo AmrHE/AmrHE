@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, Amr Hassan Emam</h1>
 <h3 align="center">A Self-taught Full Stack Developer from Egypt</h3>
-<h4 align="center">Freelancer</h4>
+<h4 align="center">Full Stack Engineer @ FarmTopia</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AmrHE&label=Profile%20views&color=0e75b6&style=flat" alt="AmrHE" /> </p>
 
