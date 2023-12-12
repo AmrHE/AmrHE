@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, Amr Hassan Emam</h1>
-<h3 align="center">A Self-taught Full Stack Developer from Egypt</h3>
-<h4 align="center">Full Stack Engineer @ FarmTopia</h4>
+<h3 align="center">A Self-taught Full Stack Engineer from Egypt</h3>
+<h4 align="center">Full Stack Engineer @ Etica Technology</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AmrHE&label=Profile%20views&color=0e75b6&style=flat" alt="AmrHE" /> </p>
 
@@ -14,9 +14,9 @@
 <!-- [<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge">](https://sumitdey.tech) -->
 
 
-- 🔭 I’m currently working on [FarmTopia](https://farmtopia.farm)
+- 🔭 I’m currently working on [Etica Technology](https://eticatechnology.com)
 
-- 🌱 I’m currently learning **Advanced TypeScript**
+- 🌱 I’m currently learning **DEVOPS**
 <!-- TODO -->
 <!-- - 👨‍💻 All of my projects are available at [sumitdey.tech](https://sumitdey.tech) -->
 <!-- - 📄 The project that got me my current job, without being interview : [Sumit-Job](https://sumit-job.vercel.app) -->
