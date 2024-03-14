@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, Amr Hassan Emam</h1>
-<h3 align="center">Full Stack Engineer @ Etica Technology</h3>
+<h3 align="center">Senior Full Stack Developer @ Etica Technology</h3>
 <!-- <h4 align="center">Full Stack Engineer @ Etica Technology</h4> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AmrHE&label=Profile%20views&color=0e75b6&style=flat" alt="AmrHE" /> </p>
