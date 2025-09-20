@@ -46,8 +46,12 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmrHE&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=pie" />
     </div>
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=AmrHE&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" /> -->
+  <div>
   <img  src="https://github-readme-stats.vercel.app/api?username=AmrHE&show_icons=true&hide_border=true&theme=dark" align="center" >
-    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=AmrHE&theme=dark" align="center" >
+  </div>
+  <div>
+    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=AmrHE&theme=dark&hide_border=true" align="center" >
+  </div>
   <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmrHE&theme=dark&hide_border=false" /> -->
   <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=AmrHE&theme=tokyo-night" /> -->
   </div>
