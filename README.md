@@ -1,27 +1,20 @@
-<h1 align="center">Hi 👋, Amr Hassan Emam</h1>
-<h3 align="center">Senior Full Stack Developer @ Etica Technology</h3>
-<!-- <h4 align="center">Full Stack Engineer @ Etica Technology</h4> -->
+<h1 align="center">Hi 👋, Amr Emam</h1>
+<h3 align="center">Professional Full Stack Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AmrHE&label=Profile%20views&color=0e75b6&style=flat" alt="AmrHE" /> </p>
 
+<!-- [<img src="https://img.shields.io/github/followers/AmrHE?logo=github&style=for-the-badge&logoColor=white">](https://github.com/AmrHE) -->
+<!-- [<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:amr.hassan.emam@gmail.com) -->
+<!-- [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/amr-hassan-emam/) -->
+<!-- [<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge">](https://amrhassan.vercel.app) -->
+
+
 
 <!-- TODO -->
-<!-- [<img src="https://img.shields.io/twitter/follow/sumit_zip?logo=twitter&style=for-the-badge" />](https://twitter.com/sumit_zip) -->
-<!--  [<img src="https://img.shields.io/youtube/channel/views/UClW8d1f5m0QAE_Ig024EP6A?logo=youtube&style=for-the-badge">](https://www.youtube.com/c/BackbenchCoder) -->
-[<img src="https://img.shields.io/github/followers/AmrHE?logo=github&style=for-the-badge&logoColor=white">](https://github.com/AmrHE)
-[<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:amr.hassan.emam@gmail.com)
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/amr-hassan-emam/)
-<!-- [<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge">](https://sumitdey.tech) -->
-
-
-- 🔭 I’m currently working on [Etica Technology](https://eticatechnology.com)
-
-- 🌱 I’m currently learning **DEVOPS**
-<!-- TODO -->
-<!-- - 👨‍💻 All of my projects are available at [sumitdey.tech](https://sumitdey.tech) -->
-<!-- - 📄 The project that got me my current job, without being interview : [Sumit-Job](https://sumit-job.vercel.app) -->
-
-- 📫 How to reach me **amr.hassan.emam@gmail.com**
+- 👨‍💻 All of my projects are available at: <a href="https://amrhassan.vercel.app" target="_blank">Amr Emam</a>
+- 📫 How to reach me: **amr.hassan.emam@gmail.com**
+<!-- - 🔭 I’m currently working on [Etica Technology](https://eticatechnology.com) -->
+<!-- - 📄 The project that got me my current job, without being interview: [Amr Emam](https://amrhassan.vercel.app) -->
 
 <h3 align="left">Languages and Tools I am familiar with:</h3>
 
@@ -35,17 +28,36 @@
 <img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" style="margin:2px;"/>
 <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white" style="margin:2px;"/>
 
-<!-- <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" style="margin:2px;"/> -->
+<img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" style="margin:2px;"/>
 <!-- <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white" style="margin:2px;"/> -->
 <br/>
 </p>
 
-## 🏆 *Github Status*
 
-<img  src="https://github-readme-stats.vercel.app/api?username=AmrHE&show_icons=true&hide_border=true&theme=dark" width="48%" align="right" >
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=AmrHE&theme=dark" width="48%" >
-<br>
-<div align="center">
+<details>
+  <summary>
+    <h2>
+      🏆 Github Status
+    </h2>
+  </summary>
 
-<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=AmrHE&rank=S,AAA,AA,A&theme=juicyfresh&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy) -->
-</div>
+  <div align="center">
+    <img style="display:block;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmrHE&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=pie" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=AmrHE&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" /> -->
+  <img  src="https://github-readme-stats.vercel.app/api?username=AmrHE&show_icons=true&hide_border=true&theme=dark" align="center" >
+    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=AmrHE&theme=dark" align="center" >
+  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmrHE&theme=dark&hide_border=false" /> -->
+  <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=AmrHE&theme=tokyo-night" /> -->
+  </div>
+</details>
+
+
+
+
+<!-- <img  src="https://github-readme-stats.vercel.app/api?username=AmrHE&show_icons=true&hide_border=true&theme=dark" width="48%" align="right" > -->
+<!-- <img  src="https://github-readme-streak-stats.herokuapp.com/?user=AmrHE&theme=dark" width="49%" >
+<br> -->
+<!-- <div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=AmrHE&rank=S,AAA,AA,A&theme=juicyfresh&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+</div> -->
