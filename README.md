@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, Amr Emam</h1>
+<h1 align="center">Hi 👋, I'm  <strong>Amr Emam</strong></h1>
 <h3 align="center">Professional Full Stack Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AmrHE&label=Profile%20views&color=0e75b6&style=flat" alt="AmrHE" /> </p>
@@ -42,7 +42,7 @@
   </summary>
 
   <div align="center">
-    <img style="display:block;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmrHE&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=pie" />
+    <img style="display:block;" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmrHE&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=pie" />
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=AmrHE&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" /> -->
   <img  src="https://github-readme-stats.vercel.app/api?username=AmrHE&show_icons=true&hide_border=true&theme=dark" align="center" >
     <img  src="https://github-readme-streak-stats.herokuapp.com/?user=AmrHE&theme=dark" align="center" >
